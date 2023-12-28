@@ -58,7 +58,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Projects',
+      title: 'Posts',
       pageId: '550db9400dcb4ae6b6cf480097a046c4'
     },
     
@@ -69,14 +69,6 @@ export default siteConfig({
     {
       title: 'Contact',
       pageId: '58c29615deaa4f6e8ea9f2f81edaa8f3'
-    },
-    {
-      title: 'Medium Articles',
-      pageId: '2583ac6448774ab2bfd4fc100ba5bab4'
-    },
-    {
-      title: 'Notes',
-      pageId: '77ee989e28f3493e8e9ac43e17d1710a'
     }
   ]
 })
