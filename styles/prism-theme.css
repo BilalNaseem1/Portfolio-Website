@@ -7,8 +7,12 @@
   padding: 1.5em !important;
 }
 
-.dark-mode .notion-code {
+/* .dark-mode .notion-code {
   background-color: rgba(17, 24, 39, 1);
+  border-color: rgba(55, 65, 81, 1);
+} */
+.dark-mode .notion-code {
+  background-color: rgba(25, 25, 25, 255);
   border-color: rgba(55, 65, 81, 1);
 }
 .notion code {
