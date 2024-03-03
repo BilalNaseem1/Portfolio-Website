@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Portfolio website - Bilal Naseem',
   domain: 'https://efficacious-raptor-ff2.notion.site/Sample-Website-550db9400dcb4ae6b6cf480097a046c4?pvs=4',
   author: 'Bilal Naseem',
 
   // open graph metadata (optional)
-  // description: 'Example Next.js Notion Starter Kit Site',
+  // description: 'Portfolio website - Bilal Naseem',
   description: 'Bilal Naseem',
 
   // social usernames (optional)
